@@ -1,10 +1,10 @@
-# Project Cars 2.0
+# Traff AI
 
 A modern vehicle detection and analysis system using computer vision and deep learning.
 
 ## Features
 
-- Real-time vehicle detection using YOLOv8
+- Real-time vehicle detection using YOLOv11
 - Video processing pipeline for vehicle analysis
 - RESTful API built with FastAPI
 - Modern web interface with real-time updates
